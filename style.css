@@ -221,6 +221,7 @@ footer {
 }
 
 .second-line select {
+    background-color:#ffffff;
     border: none;
     color: #737373;
     padding-right: 30px;
